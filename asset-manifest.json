@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/GoStack08-Modulo-05/static/js/main.11c7ed61.chunk.js",
+    "main.js.map": "/GoStack08-Modulo-05/static/js/main.11c7ed61.chunk.js.map",
+    "runtime~main.js": "/GoStack08-Modulo-05/static/js/runtime~main.63f760f3.js",
+    "runtime~main.js.map": "/GoStack08-Modulo-05/static/js/runtime~main.63f760f3.js.map",
+    "static/js/2.de78b8cf.chunk.js": "/GoStack08-Modulo-05/static/js/2.de78b8cf.chunk.js",
+    "static/js/2.de78b8cf.chunk.js.map": "/GoStack08-Modulo-05/static/js/2.de78b8cf.chunk.js.map",
+    "index.html": "/GoStack08-Modulo-05/index.html",
+    "precache-manifest.d7e0e0b311ffed2fcf1a7d24fd0c6b72.js": "/GoStack08-Modulo-05/precache-manifest.d7e0e0b311ffed2fcf1a7d24fd0c6b72.js",
+    "service-worker.js": "/GoStack08-Modulo-05/service-worker.js"
+  }
+}
